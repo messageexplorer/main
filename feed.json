@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "messageexplorer.com",
+    "description": "",
+    "home_page_url": "https://messageexplorer.com",
+    "feed_url": "https://messageexplorer.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Mike"
+    },
+    "items": [
+    ]
+}
